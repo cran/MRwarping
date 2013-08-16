@@ -1,0 +1,21 @@
+citHeader("To cite MRwarping in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Warping Functional Data in {R} and {C} via a {B}ayesian Multiresolution Approach",
+  author       = personList(as.person("Leen Slaets"),
+                   as.person("Gerda Claeskens"),
+                   as.person("Bernard W. Silverman")),
+  journal      = "Journal of Statistical Software",
+  year         = "2013",
+  volume       = "55",
+  number       = "3",
+  pages        = "1--22",
+  url          = "http://www.jstatsoft.org/v55/i03/",
+
+  textVersion  =
+  paste("Leen Slaets, Gerda Claeskens, Bernard W. Silverman (2013).",
+        "Warping Functional Data in R and C via a Bayesian Multiresolution Approach.",
+        "Journal of Statistical Software, 55(3), 1-22.",
+        "URL http://www.jstatsoft.org/v55/i03/.")
+)
+

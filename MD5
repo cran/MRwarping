@@ -1,0 +1,13 @@
+7f548857dd612da4944a62fdf4b42e7b *DESCRIPTION
+b68eaca2d9481029294cd6acaf1d4391 *NAMESPACE
+2d22f0db7e21caa7e637f9ec2108b3a5 *R/MRwarp.R
+c39790e6c7bafcce0e29f27033bbbbda *R/comp.R
+8a2f656bde88683a173a88b097e38469 *R/warp.R
+8f3a9aa0a7073601bfef0b54c8cc706a *data/TICdata.rda
+f21228bb0e576e821fb51afe1f7050f6 *inst/CITATION
+bc935e2a451559c6049c5f9fd54cadeb *man/MRwarp-package.Rd
+35a19aab8f58a1afcb908df10ea467c9 *man/MRwarp.Rd
+93e92ec09f8569bcba180741c903f785 *man/TICdata.Rd
+30c2fc7d97d76e92266a00fb6ee154c0 *man/comp.Rd
+ed109e7c37637c9e1fb0d4dbdc9a3619 *man/warp.Rd
+b84c3d80fd2ac65aebf8f25bdebbdb13 *src/interfaceRC_warp.c
